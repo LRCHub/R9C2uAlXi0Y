@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Collage",
+  "base_artist": "reche",
+  "createdAt": "2026-02-17T00:20:32.160463Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Raw Youth Collage",
+      "artist": "Mura Masa",
+      "has_synced": true,
+      "path": "select/01_Raw_Youth_Collage_Mura_Masa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Collage",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/02_Collage_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You're Gonna Die - Sound Collage",
+      "artist": "Reel Big Fish",
+      "has_synced": false,
+      "path": "select/03_You're_Gonna_Die_-_Sound_Collage_Reel_Big_Fish.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Collage",
+      "artist": "The Three Degrees",
+      "has_synced": true,
+      "path": "select/04_Collage_The_Three_Degrees.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Collage",
+      "artist": "The 3 Degrees",
+      "has_synced": true,
+      "path": "select/05_Collage_The_3_Degrees.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Collage",
+      "artist": "James Gang",
+      "has_synced": false,
+      "path": "select/06_Collage_James_Gang.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Collage",
+      "artist": "The James Gang",
+      "has_synced": true,
+      "path": "select/07_Collage_The_James_Gang.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Collage of the Present",
+      "artist": "Tetrafusion",
+      "has_synced": false,
+      "path": "select/08_Collage_of_the_Present_Tetrafusion.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Collage",
+      "artist": "Howlin Rain",
+      "has_synced": false,
+      "path": "select/09_Collage_Howlin_Rain.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Your Guts (I Hate 'Em) / You're Gonna Die (sound collage)",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/10_Your_Guts_(I_Hate_'Em)___You're_Gonna_Die_(sound_collage)_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Can't We Try (feat. Collage)",
+      "artist": "Rockell feat. Collage",
+      "has_synced": false,
+      "path": "select/11_Can't_We_Try_(feat._Collage)_Rockell_feat._Collage.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Collage",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/12_Collage_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Collage",
+      "artist": "Lady Blackbird",
+      "has_synced": false,
+      "path": "select/13_Collage_Lady_Blackbird.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Collage",
+      "artist": "reche",
+      "has_synced": false,
+      "path": "select/pl_01_Collage_reche.txt"
+    }
+  ]
+}
